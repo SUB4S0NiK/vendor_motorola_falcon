@@ -23,4 +23,4 @@ PRODUCT_PACKAGES += \
     qcnvitems \
     qcrilhook
 
-$(call inherit-product, vendor/moto/falcon/falcon-vendor-blobs.mk)
+$(call inherit-product, vendor/motorola/falcon/falcon-vendor-blobs.mk)
